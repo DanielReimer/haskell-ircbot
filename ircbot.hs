@@ -3,7 +3,6 @@ import qualified Data.ByteString as B
 import qualified Data.ByteString.Char8 as C
 import Network.Connection
 import Data.Default
-import System.Process
 
 server = "irc.server.com"
 port   = 9999
