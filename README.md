@@ -1,2 +1,2 @@
 # haskell-ircbot
-A simple irc bot written in haskell that uses ssl
+A simple irc bot written in haskell that uses the ssl protocol.
